@@ -6,7 +6,7 @@ CC = g++
 #all: campus
 all: $(EXES)
 
-campus: account.o admin.o database.o faculty.o function.o institute.o institute_member.o person.o security.o student.o vehicle.o worker.o main.o
+campus.out: account.o admin.o database.o faculty.o function.o institute.o institute_member.o person.o security.o student.o vehicle.o worker.o main.o
 	g++ account.o admin.o database.o faculty.o function.o institute.o institute_member.o person.o security.o student.o vehicle.o worker.o main.o -o campus.out
 #campus: $(OBJS)
 #	$(CC) $(OBJS) -o $(EXES)
