@@ -4,8 +4,8 @@
 
 This software is a c++ based program which manages who is allowed to enter into the campus and also manages database of the person who enters or exit the campus.
 
-Description
-  user cases:
+<b1>Description</b1>
+  <b2>user cases:</b2>
     ADD ENTRY
     ADD EXIT
     UPDATE DATABASE
@@ -17,11 +17,11 @@ Description
     Remove User
     Change User Password
 
-Installation
+<b3>Installation</b3>
 
-Linux:
+<b4>Linux:</b4>
 execute make, run generated file "campus.out" with data
 
-Contribution
+<b5>Contribution</b5>
 
 Create a fork of the project into your own reposity. Make all your necessary changes and create a pull request with a description on what was added or removed and details explaining the changes in lines of code. If approved, project we will merge it.
