@@ -2,7 +2,7 @@
 
 Campus In and Out
 
-This software is a c++ based program which manages who is allowed to enter into the campus and also manages database of the person who enters or exit the campus.
+<h1>This software is a c++ based program which manages who is allowed to enter into the campus and also manages database of the person who enters or exit the campus.</h1>
 
 Description
   user cases:
