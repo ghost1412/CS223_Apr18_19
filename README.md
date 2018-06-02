@@ -1,8 +1,8 @@
 # CS223_Apr18_19
 
-Campus In and Out
+<h1>Campus In and Out</h1>
 
-<h1>This software is a c++ based program which manages who is allowed to enter into the campus and also manages database of the person who enters or exit the campus.</h1>
+This software is a c++ based program which manages who is allowed to enter into the campus and also manages database of the person who enters or exit the campus.
 
 Description
   user cases:
