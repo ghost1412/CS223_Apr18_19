@@ -26,4 +26,4 @@ execute make, run generated file "campus.out" with data
   
 <b>Contribution</b>
 
-Create a fork of the project into your own reposity. Make all your necessary changes and create a pull request with a description on what was added or removed and details explaining the changes in lines of code. If approved, project we will merge it.
+Create a fork of the project into your own repository. Make all your necessary changes and create a pull request with a description on what was added or removed and details explaining the changes in lines of code. If approved, project we will merge it.
